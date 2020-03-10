@@ -33,6 +33,7 @@ Kevin Johnson    | Proyecto | [kjjohnson@uc.cl]
 Nombre                    | Email
 ------------------------- | ---------------------
 Valentina Álvarez         | [vjalvarez@uc.cl]
+Raúl Díaz                 | [ridiaz2@uc.cl]
 Sarah Everke              | [sveverke@uc.cl]
 Francisca Hohlberg        | [fhohlberg@uc.cl]
 Francisco López           | [fjlopez7@uc.cl]
@@ -50,6 +51,7 @@ Paula Yoma                | [pbyoma@uc.cl]
 [tacucumides@uc.cl]: mailto:tacucumides@uc.cl
 [kjjohnson@uc.cl]: mailto:kjjohnson@uc.cl
 [vjalvarez@uc.cl]: mailto:[vjalvarez@uc.cl]
+[ridiaz2@uc.cl]: mailto:[ridiaz2@uc.cl]
 [sveverke@uc.cl]: mailto:[sveverke@uc.cl]
 [fhohlberg@uc.cl]: mailto:[fhohlberg@uc.cl]
 [fjlopez7@uc.cl]: mailto:[fjlopez7@uc.cl]

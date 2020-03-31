@@ -1,6 +1,7 @@
 # Links de Proyecto
 
 ## Formularios
+- [Solicitud de Recorrección](https://forms.gle/qBEZkXzwMXrKC2sR8)
 - [Evaluación de Pares E1](https://forms.gle/Kkp7BMdPwc3DAaP29)
 - [Retroalimentación para mejorar el curso :)](https://forms.gle/z4U1iUpUdQk316yg7)
 

@@ -16,6 +16,8 @@
 
 Las notas se publicarán [AQUÍ](https://docs.google.com/spreadsheets/d/1L2tjSQz-tDxhn2_I1bsN65sVWgMr9yqneU5YOOg6xwI).
 
+Puede solicitar recorrección [ACÁ](https://forms.gle/qBEZkXzwMXrKC2sR8).
+
 ## Mejora Continua
 
 Ayúdanos a mejorar las cátedras, ayudantías, issues, correcciones o el proyecto [AQUÍ](https://forms.gle/Y2Yv9Yaksx6ZXKrf9). :star:

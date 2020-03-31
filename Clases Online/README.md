@@ -8,10 +8,11 @@
 - [Videos SQL](https://www.youtube.com/watch?v=Ce-hNjfninU&list=PLleedqq9njXUHhFeOJzgsMThN4bzKtl8c)
 
 ## 01/04 Diagrama ER y ForeignKeys
-- [Clase]()
+
 
 ## 08/04 Restricciones de Integridad y Nulos
-- [Clase]()
+
 
 ## 15/04 SQL Avanzado
-- [Clase]()
+
+

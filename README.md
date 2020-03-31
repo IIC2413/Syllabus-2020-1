@@ -2,6 +2,8 @@
 
 ## Tabla de contenidos
 
+- [Notas](#notas)
+- [Mejora Continua](#mejora-continua)
 - [Equipo](#equipo)
   - [Profesor](#profesor)
   - [Ayudantes](#ayudantes)
@@ -9,6 +11,14 @@
 - [Política de integridad académica](#política-de-integridad-académica)
 
 ---
+
+## Notas
+
+Las notas se publicarán [AQUÍ](https://docs.google.com/spreadsheets/d/1L2tjSQz-tDxhn2_I1bsN65sVWgMr9yqneU5YOOg6xwI).
+
+## Mejora Continua
+
+Ayúdanos a mejorar las cátedras, ayudantías, issues, correcciones o el proyecto [AQUÍ](https://forms.gle/Y2Yv9Yaksx6ZXKrf9). :star:
 
 ## Equipo
 

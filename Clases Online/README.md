@@ -9,6 +9,7 @@
 
 ## 01/04 Diagrama ER y ForeignKeys
 - [Diagrama E/R](https://drive.google.com/file/d/16CapuxwGPaju80utGgeVK-3wmDN0zUvl/view)
+- [Llaves Foráneas](https://www.youtube.com/watch?v=V9BshcMCpVQ)
 
 
 ## 08/04 Restricciones de Integridad y Nulos

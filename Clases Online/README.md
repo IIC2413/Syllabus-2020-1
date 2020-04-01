@@ -8,7 +8,7 @@
 - [Clase](https://zoom.us/rec/share/6etpcriv6G5OGLfzwXGDC4V8Aof1X6a80XIZrqUFzx7tk-lij3TX4u1mtgpB77Fa)
 
 ## 01/04 Diagrama ER y ForeignKeys
-- [Videos](https://www.youtube.com/playlist?list=PLeLV_ztnnBSj_Hymwry43eV7xsREKno9h)
+- [Diagrama E/R](https://drive.google.com/file/d/16CapuxwGPaju80utGgeVK-3wmDN0zUvl/view)
 
 
 ## 08/04 Restricciones de Integridad y Nulos

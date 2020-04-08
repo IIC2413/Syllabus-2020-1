@@ -12,7 +12,7 @@
 - Video Llaves: [Drive](https://drive.google.com/drive/folders/13Ld8zoWWR4vBjjixljaHvysG0NdWYeq8) o [Youtube](https://www.youtube.com/watch?v=V9BshcMCpVQ)
 
 ## 08/04 Restricciones de Integridad y Nulos
-
+- Videos de Materia: [Youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSgXrf-mX_YO5hCqpxYVDx05)
 
 ## 15/04 SQL Avanzado
 

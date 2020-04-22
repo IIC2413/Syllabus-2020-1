@@ -21,3 +21,7 @@
 ## 15/04 SQL Avanzado
 
 - Video de Materia: [Zoom](https://zoom.us/rec/share/uPF2C53BrkhOZo2V9FDHa4guHZu-X6a80yUY-fRbzkrZRD8m7DnIrLKvrshNoPYR) o [Drive](https://drive.google.com/drive/folders/1PnAAT_1NtSdQIfo1K8HcjTkt1C0PXcZN)
+
+## 21/04 Procedimientos Almacenados 
+
+- Video de materia/guía: [youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSi8K-UBEs44D5xidvwP8kDH)

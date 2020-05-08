@@ -25,3 +25,4 @@
 ## 21/04 Procedimientos Almacenados 
 
 - Video de materia/guía: [youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSi8K-UBEs44D5xidvwP8kDH)
+- Sesión de consultas Viernes 24/04: [Zoom](https://zoom.us/rec/share/5sxJJZvq1zlJE6vV9FHgCqADD9nHaaa81HUc-PoIzBnNedK1YX6UE05Oz3fO8rv_)

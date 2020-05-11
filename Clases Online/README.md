@@ -28,4 +28,8 @@
 - Sesión de consultas Viernes 24/04: [Zoom](https://zoom.us/rec/share/5sxJJZvq1zlJE6vV9FHgCqADD9nHaaa81HUc-PoIzBnNedK1YX6UE05Oz3fO8rv_)
 
 ## 06/05 Almacenamiento, Índices, Algoritmos
-- Clase: [Zoom](https://zoom.us/rec/share/w8VWfrag8lhIHs_p0EH_XYV7Iq_Daaa8gycW_PYFyUoAdLhDqRz6EYrOxFH7cA5o) o [Youtube](https://www.youtube.com/watch?v=9zeiEzqG8ps&t)
+- Video de materia: [Youtube](https://www.youtube.com/watch?v=9zeiEzqG8ps&t) 
+- Clase: [Zoom](https://zoom.us/rec/share/w8VWfrag8lhIHs_p0EH_XYV7Iq_Daaa8gycW_PYFyUoAdLhDqRz6EYrOxFH7cA5o)
+
+## 08/05 Almacenamiento, Índices, Algoritmos
+- Clase/Ayudantia: [Drive](https://drive.google.com/open?id=11dMCNGc71IlZb9OiKj-cETom7YCddvnd) 

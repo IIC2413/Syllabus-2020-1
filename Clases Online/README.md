@@ -33,3 +33,8 @@
 
 ## 08/05 Almacenamiento, Índices, Algoritmos
 - Clase/Ayudantia: [Drive](https://drive.google.com/open?id=11dMCNGc71IlZb9OiKj-cETom7YCddvnd) 
+
+## 20/05 Transacciones, Recuperación de falla
+- Video de materia: [Youtube](https://www.youtube.com/watch?v=rUIR8pUIlIo&list=PLeLV_ztnnBShvNikoSSQBsAMhwq47fpym) 
+- Clase: [Drive](https://drive.google.com/open?id=1pKo8TClFOUQSt7KkjmOq7I9rqEKUE7rI) 
+

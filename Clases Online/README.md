@@ -38,3 +38,6 @@
 - Video de materia: [Youtube](https://www.youtube.com/watch?v=rUIR8pUIlIo&list=PLeLV_ztnnBShvNikoSSQBsAMhwq47fpym) 
 - Clase: [Drive](https://drive.google.com/open?id=1pKo8TClFOUQSt7KkjmOq7I9rqEKUE7rI) 
 
+## 03/06 NoSQL
+- Video de materia: [Youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSjMyKRlSUIu0ImW_LZ-Vk8s) 
+- Clase(por subir)

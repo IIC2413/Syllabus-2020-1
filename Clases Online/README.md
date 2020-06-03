@@ -40,4 +40,5 @@
 
 ## 03/06 NoSQL
 - Video de materia: [Youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSjMyKRlSUIu0ImW_LZ-Vk8s) 
-- Clase(por subir)
+- Clase: [Zoom](https://zoom.us/rec/share/zN5nAIDgy01ISK_S9B3BcJwCP4LbX6a80CBM8vYNzxlQk6MUcTXDNmwvtwWsh9fR)
+

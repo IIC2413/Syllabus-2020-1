@@ -1,0 +1,260 @@
+[
+    {
+        "uid": 1,
+        "name": "James Hetfield",
+        "age": 55,
+        "description": "Soy un usuario al que le gusta mucho jugar catán."
+    },
+    {
+        "uid": 2,
+        "name": "Dave Mustaine",
+        "age": 28,
+        "description": "Soy un usuario al que le gusta mucho pintar acuarelas."
+    },
+    {
+        "uid": 3,
+        "name": "Gabriel Parra",
+        "age": 56,
+        "description": "Soy un usuario al que le gusta mucho nada."
+    },
+    {
+        "uid": 4,
+        "name": "Thom Yorke",
+        "age": 59,
+        "description": "Soy un usuario al que le gusta mucho ir de gira."
+    },
+    {
+        "uid": 5,
+        "name": "Lars Ulrich",
+        "age": 28,
+        "description": "Soy un usuario al que le gusta mucho nada."
+    },
+    {
+        "uid": 6,
+        "name": "Daddy Yankee",
+        "age": 46,
+        "description": "Soy un usuario al que le gusta mucho pintar acuarelas."
+    },
+    {
+        "uid": 7,
+        "name": "Eddie Vedder",
+        "age": 55,
+        "description": "Soy un usuario al que le gusta mucho jugar ludo y ganarle a mis amigos."
+    },
+    {
+        "uid": 8,
+        "name": "Steven Wilson",
+        "age": 22,
+        "description": "Soy un usuario al que le gusta mucho pasar en redes sociales todo el día."
+    },
+    {
+        "uid": 9,
+        "name": "Martin Garrix",
+        "age": 52,
+        "description": "Soy un usuario al que le gusta mucho acariciar a mi lomito."
+    },
+    {
+        "uid": 10,
+        "name": "Hardwell",
+        "age": 42,
+        "description": "Soy un usuario al que le gusta mucho ir de gira."
+    },
+    {
+        "uid": 11,
+        "name": "Ozzy Osbourne",
+        "age": 44,
+        "description": "Soy un usuario al que le gusta mucho hacer música."
+    },
+    {
+        "uid": 12,
+        "name": "Arturo Vidal",
+        "age": 22,
+        "description": "Soy un usuario al que le gusta mucho aprender idiomas."
+    },
+    {
+        "uid": 13,
+        "name": "Jerry Cantrell",
+        "age": 50,
+        "description": "Soy un usuario al que le gusta mucho ir al museo."
+    },
+    {
+        "uid": 14,
+        "name": "Cliff Burton",
+        "age": 40,
+        "description": "Soy un usuario al que le gusta mucho hacer música."
+    },
+    {
+        "uid": 15,
+        "name": "Kirk Hammett",
+        "age": 39,
+        "description": "Soy un usuario al que le gusta mucho pintar acuarelas."
+    },
+    {
+        "uid": 16,
+        "name": "David Ellefson",
+        "age": 24,
+        "description": "Soy un usuario al que le gusta mucho tocar piano."
+    },
+    {
+        "uid": 17,
+        "name": "Julian Casablancas",
+        "age": 23,
+        "description": "Soy un usuario al que le gusta mucho tocar piano."
+    },
+    {
+        "uid": 18,
+        "name": "Alex Turner",
+        "age": 35,
+        "description": "Soy un usuario al que le gusta mucho jugar en scape rooms con mis hermanos."
+    },
+    {
+        "uid": 19,
+        "name": "Wisin",
+        "age": 58,
+        "description": "Soy un usuario al que le gusta mucho ver el detective conan."
+    },
+    {
+        "uid": 20,
+        "name": "Yandel",
+        "age": 43,
+        "description": "Soy un usuario al que le gusta mucho jugar ludo y ganarle a mis amigos."
+    },
+    {
+        "uid": 21,
+        "name": "Michael Jackson",
+        "age": 55,
+        "description": "Soy un usuario al que le gusta mucho dar conciertos."
+    },
+    {
+        "uid": 22,
+        "name": "Tom Araya",
+        "age": 23,
+        "description": "Soy un usuario al que le gusta mucho cantar."
+    },
+    {
+        "uid": 23,
+        "name": "Álvaro López",
+        "age": 43,
+        "description": "Soy un usuario al que le gusta mucho tocar piano."
+    },
+    {
+        "uid": 24,
+        "name": "Florentino Ariza",
+        "age": 40,
+        "description": "Soy un usuario al que le gusta mucho manejar."
+    },
+    {
+        "uid": 25,
+        "name": "Fidel Juárez",
+        "age": 53,
+        "description": "Soy un usuario al que le gusta mucho ir de gira."
+    },
+    {
+        "uid": 26,
+        "name": "Gil Sanchez",
+        "age": 41,
+        "description": "Soy un usuario al que le gusta mucho tocar piano."
+    },
+    {
+        "uid": 27,
+        "name": "Severo Durante",
+        "age": 58,
+        "description": "Soy un usuario al que le gusta mucho jugar catán."
+    },
+    {
+        "uid": 28,
+        "name": "Candelario Díaz",
+        "age": 34,
+        "description": "Soy un usuario al que le gusta mucho jugar catán."
+    },
+    {
+        "uid": 29,
+        "name": "Joel Abel",
+        "age": 21,
+        "description": "Soy un usuario al que le gusta mucho visitar galerías de arte."
+    },
+    {
+        "uid": 30,
+        "name": "Eberardo Moles",
+        "age": 40,
+        "description": "Soy un usuario al que le gusta mucho cantar."
+    },
+    {
+        "uid": 31,
+        "name": "Marco Antúnez",
+        "age": 51,
+        "description": "Soy un usuario al que le gusta mucho ir al museo."
+    },
+    {
+        "uid": 32,
+        "name": "Demetrio Maradona",
+        "age": 24,
+        "description": "Soy un usuario al que le gusta mucho cocinar."
+    },
+    {
+        "uid": 33,
+        "name": "Bruno Franco",
+        "age": 60,
+        "description": "Soy un usuario al que le gusta mucho manejar."
+    },
+    {
+        "uid": 34,
+        "name": "Saturnino Elizondo",
+        "age": 24,
+        "description": "Soy un usuario al que le gusta mucho estudiar bases de datos."
+    },
+    {
+        "uid": 35,
+        "name": "Cruz Lopez",
+        "age": 22,
+        "description": "Soy un usuario al que le gusta mucho jugar ludo y ganarle a mis amigos."
+    },
+    {
+        "uid": 36,
+        "name": "Wilfredo Arechavaleta",
+        "age": 24,
+        "description": "Soy un usuario al que le gusta mucho tocar guitarra."
+    },
+    {
+        "uid": 37,
+        "name": "Edogawa Conan",
+        "age": 7,
+        "description": "Soy un usuario al que le gusta mucho resolver misterios."
+    },
+    {
+        "uid": 38,
+        "name": "Gin",
+        "age": 36,
+        "description": "Soy un usuario al que le gusta mucho tocar guitarra."
+    },
+    {
+        "uid": 39,
+        "name": "Vodka",
+        "age": 37,
+        "description": "Soy un usuario al que le gusta mucho ir al museo."
+    },
+    {
+        "uid": 40,
+        "name": "Kudo Shinichi",
+        "age": 17,
+        "description": "Mi nombre es Bobby Jackson, tengo 17 años, reconocido como el mejor de los detectives, pero unos hombres me obligaron a tomar una droga, así fue como me convertí en Conan Blasi, a pesar de ser un niño mi inteligencia es la de un joven normal y para mí no hay un caso difícil de resolver."
+    },
+    {
+        "uid": 41,
+        "name": "Vermouth",
+        "age": 35,
+        "description": "Soy un usuario al que le gusta mucho dar conciertos."
+    },
+    {
+        "uid": 42,
+        "name": "Akai Shuichi Shuu",
+        "age": 31,
+        "description": "Soy un usuario al que le gusta mucho nada."
+    },
+    {
+        "uid": 43,
+        "name": "Leonardo San Martín",
+        "age": 38,
+        "description": "Soy un usuario al que le gusta mucho nada."
+    }
+]

@@ -1,5 +1,8 @@
 # Links de Proyecto
 
+## Pautas de Corrección
+- [E1 y E2](https://docs.google.com/document/d/1fNs_A2XTtpIx_VvuM0Adu2TiPP6eU7sTi5T01W3Ke40/edit?usp=sharing)
+
 ## Formularios
 - [Solicitud de Recorrección](https://forms.gle/qBEZkXzwMXrKC2sR8)
 - [Evaluación de Pares E1 y E2](https://forms.gle/Kkp7BMdPwc3DAaP29)

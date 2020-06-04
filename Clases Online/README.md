@@ -28,4 +28,17 @@
 - Sesión de consultas Viernes 24/04: [Zoom](https://zoom.us/rec/share/5sxJJZvq1zlJE6vV9FHgCqADD9nHaaa81HUc-PoIzBnNedK1YX6UE05Oz3fO8rv_)
 
 ## 06/05 Almacenamiento, Índices, Algoritmos
+- Video de materia: [Youtube](https://www.youtube.com/watch?v=9zeiEzqG8ps&t) 
 - Clase: [Zoom](https://zoom.us/rec/share/w8VWfrag8lhIHs_p0EH_XYV7Iq_Daaa8gycW_PYFyUoAdLhDqRz6EYrOxFH7cA5o)
+
+## 08/05 Almacenamiento, Índices, Algoritmos
+- Clase/Ayudantia: [Drive](https://drive.google.com/open?id=11dMCNGc71IlZb9OiKj-cETom7YCddvnd) 
+
+## 20/05 Transacciones, Recuperación de falla
+- Video de materia: [Youtube](https://www.youtube.com/watch?v=rUIR8pUIlIo&list=PLeLV_ztnnBShvNikoSSQBsAMhwq47fpym) 
+- Clase: [Drive](https://drive.google.com/open?id=1pKo8TClFOUQSt7KkjmOq7I9rqEKUE7rI) 
+
+## 03/06 NoSQL
+- Video de materia: [Youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSjMyKRlSUIu0ImW_LZ-Vk8s) 
+- Clase: [Zoom](https://zoom.us/rec/share/zN5nAIDgy01ISK_S9B3BcJwCP4LbX6a80CBM8vYNzxlQk6MUcTXDNmwvtwWsh9fR)
+

@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+# Estos son los paquetes que no se van instalar en los servidores o en "produccion"
+
+[dev-packages]
+# Estos son los paquetes que siempre se van instalar
+mypy = "*"
+flake8 = "*"
+
+[packages]
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+pymongo = "*"
+gunicorn = "*"
+Flask = "*"
+Jinja2 = "*"
+autopep8 = "*"
+
+[requires]
+python_version = "3.7"

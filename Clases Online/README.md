@@ -42,3 +42,7 @@
 - Video de materia: [Youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSjMyKRlSUIu0ImW_LZ-Vk8s) 
 - Clase: [Zoom](https://zoom.us/rec/share/zN5nAIDgy01ISK_S9B3BcJwCP4LbX6a80CBM8vYNzxlQk6MUcTXDNmwvtwWsh9fR)
 
+## MongoDB y TextSearch
+- Video TextSearch: [Youtube](https://www.youtube.com/watch?v=vR97-4UG7x0)
+- Clase: [Zoom](https://zoom.us/rec/play/78IucLigrD43SYXGsgSDBPV4W9TrLaus0ikc8qYNmUa0BSRWY1KvZrQQY7FT4HibTSL3sQd9Y0IkuclL?continueMode=true)
+

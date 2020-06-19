@@ -681,13 +681,13 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "localhost:5000/messages/:id",
+							"raw": "localhost:5000/message/:id",
 							"host": [
 								"localhost"
 							],
 							"port": "5000",
 							"path": [
-								"messages",
+								"message",
 								":id"
 							],
 							"variable": [
@@ -706,13 +706,13 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "localhost:5000/messages/:id",
+							"raw": "localhost:5000/message/:id",
 							"host": [
 								"localhost"
 							],
 							"port": "5000",
 							"path": [
-								"messages",
+								"message",
 								":id"
 							],
 							"variable": [

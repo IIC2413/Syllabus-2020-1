@@ -615,7 +615,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"mesagge\": \"Mensaje para probar el POST\",\n\t\"sender\": 1,\n\t\"receptant\": 2,\n\t\"lat\": -46.059365,\n\t\"long\": -72.201691,\n\t\"date\": \"2018-10-16\"\n}",
+							"raw": "{\n\t\"message\": \"Mensaje para probar el POST\",\n\t\"sender\": 1,\n\t\"receptant\": 2,\n\t\"lat\": -46.059365,\n\t\"long\": -72.201691,\n\t\"date\": \"2018-10-16\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -649,7 +649,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"mesagge\": \"Mensaje para probar el POST\",\n\t\"receptant\": 2,\n\t\"lat\": -46.059365,\n\t\"long\": -72.201691,\n\t\"date\": \"2018-10-16\"\n}",
+							"raw": "{\n\t\"message\": \"Mensaje para probar el POST\",\n\t\"receptant\": 2,\n\t\"lat\": -46.059365,\n\t\"long\": -72.201691,\n\t\"date\": \"2018-10-16\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"

@@ -46,3 +46,5 @@
 - Video TextSearch: [Youtube](https://www.youtube.com/watch?v=vR97-4UG7x0)
 - Clase: [Zoom](https://zoom.us/rec/play/78IucLigrD43SYXGsgSDBPV4W9TrLaus0ikc8qYNmUa0BSRWY1KvZrQQY7FT4HibTSL3sQd9Y0IkuclL?continueMode=true)
 
+## 24/06 Ciencia de datos
+- Video de materia: [Youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSjZb_rZcpFQ8X7BPM1no8t5) 

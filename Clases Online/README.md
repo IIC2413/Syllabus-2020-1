@@ -48,3 +48,4 @@
 
 ## 24/06 Ciencia de datos
 - Video de materia: [Youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSjZb_rZcpFQ8X7BPM1no8t5) 
+- Clase: [Zoom](https://zoom.us/rec/share/uJJIL53a6HJITrPAzkP-SowTIJ7vT6a8hCdL_PIEzEkIdiyHUmlIaiZ8DTj_faM6)
